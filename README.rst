@@ -1,6 +1,11 @@
+
+Forked from
 ----------------------------------------------------
 Django-JFU - A Django Library for jQuery File Upload 
 ----------------------------------------------------
+
+to create JFU with Zurb Foundation 5 .
+
 
 Django-JFU is designed to simplify the tasks involved in integrating jQuery
 File Upload (https://github.com/blueimp/jquery-file-upload) into Django.
